@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 Hi there! I'm Joel Alves
+## About me:
+### Hi there! I'm Joel, i have 20 years old and i living in Brazil 🇧🇷
+### I'm curious guy who likes to read strange books, and learn. When i was a kid, i always liked my computer, in those days i thought they're magic or something else, because in my mind they could do a everything. Well, i can presume that thought brought  me to study computers. I'm self-learner, in this moment i study python and yours respectively libraris: Pandas and Numpy.
+### Now I'm Studying Computer Science at the Catholic University of Brasilia (UCB).
 
-<!--
-**Joel-ASantos/Joel-ASantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Find me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
+[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joel_alves.s/)
 
-Here are some ideas to get you started:
+# 📊Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-ASantos&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Joel GitHub stats](https://github-readme-stats.vercel.app/api?username=Joel-ASantos&show_icons=true&theme=tokyonight)
