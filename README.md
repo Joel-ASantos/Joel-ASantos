@@ -6,6 +6,8 @@
 # Find me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joel_alves.s/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-alves-8b8887323/)
+
 
 # 📊Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-ASantos&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css)
